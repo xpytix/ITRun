@@ -1,0 +1,8 @@
+<Employee>
+    <PersonalId>003</PersonalId>
+    <FirstName>Marcin</FirstName>
+    <LastName>Wiśniewski</LastName>
+    <Mobile>456123789</Mobile>
+    <Email>marcin.wisniewski@example.com</Email>
+    <PESEL>45612378903</PESEL>
+</Employee>
